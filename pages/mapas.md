@@ -1,6 +1,6 @@
 ---
 standalone: true
-title: Mapas Livres
+title: Mapas Aberto
 slug: home
 projeto: Mapas Livres
 pageSettings:
